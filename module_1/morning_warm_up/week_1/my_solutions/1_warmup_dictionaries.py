@@ -65,3 +65,5 @@ print(ages)
 
 ### [optional] Calculate with a for loop the median and mean of the ages list
 
+for i in ages:
+    
